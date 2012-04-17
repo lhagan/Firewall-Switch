@@ -1,6 +1,6 @@
 # Firewall Switch
 
-Firewall Switch is a simple utility that allows you to turn OS X's built-in firewall on or off without opening Preferences.
+Firewall Switch is a simple utility that allows you to turn OS X Lion's built-in firewall on or off without opening Preferences.
 
 Just run the app and it'll detect whether or not the Firewall is is turned on. If the firewall is running, it'll ask you to confirm that you want to turn the firewall off. If the firewall's off, it'll ask for confirmation to switch the firewall back on (in "Block all incoming connections" mode). If your system is configured to require administrator credentials to make changes in Preferences, you'll also be prompted to enter those.
 
